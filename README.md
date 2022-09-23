@@ -24,8 +24,8 @@ After importing all my libraries and the csv file, I began my exploratory data a
 
 **Findings**
 
-* The top 3 categories by sales are equipment, snack, and toys. They make up almost half (48%) of all sales. 
-* Similarly, the top 3 categories by repurchases are equipment, snack, and toys. They also make up almost half (48%) of all sales.
+* The top 3 categories by sales are equipment, snack, and toys. They make up almost half (49%) of all sales. 
+* Similarly, the top 3 categories by repurchases are equipment, snack, and toys. They also make up almost half (48%) of all repurchased products.
 * Although these categories were commonly repurchased across all pet types, medicine was repurchased more than toys for dogs.
 * With a correlation coefficient of 0.98, there is a strong positive correlation between sales and repurchases. 
 
